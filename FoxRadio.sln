@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FoxRadio", "FoxRadio\FoxRadio.csproj", "{AB066710-6C05-428B-B789-98504FC6F674}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RtlTcp", "RtlTcp\RtlTcp.csproj", "{3F3CACAA-44A9-49C5-ADA6-03FACE035517}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nrsc5", "Nrsc5\Nrsc5.csproj", "{C6879FE5-E952-47A5-9960-10070BBB349B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB066710-6C05-428B-B789-98504FC6F674}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB066710-6C05-428B-B789-98504FC6F674}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB066710-6C05-428B-B789-98504FC6F674}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB066710-6C05-428B-B789-98504FC6F674}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F3CACAA-44A9-49C5-ADA6-03FACE035517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F3CACAA-44A9-49C5-ADA6-03FACE035517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F3CACAA-44A9-49C5-ADA6-03FACE035517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F3CACAA-44A9-49C5-ADA6-03FACE035517}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6879FE5-E952-47A5-9960-10070BBB349B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6879FE5-E952-47A5-9960-10070BBB349B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6879FE5-E952-47A5-9960-10070BBB349B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6879FE5-E952-47A5-9960-10070BBB349B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B37BFD2D-2B2F-455D-8724-E555083321AA}
+	EndGlobalSection
+EndGlobal
